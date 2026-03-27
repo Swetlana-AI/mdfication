@@ -22,3 +22,5 @@ To convert one’s thinking, preferences, and cognitive patterns into structured
 ## Usage:
 “I md-fied my writing process.”
 “She md-fies her decision-making before scaling content.”
+
+![mdfication]([http://url/to/img.png](https://swetlanaai.wordpress.com/wp-content/uploads/2026/03/you-md-swetlana-ai-mdfication.png))
